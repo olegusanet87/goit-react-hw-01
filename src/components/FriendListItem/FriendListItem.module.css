@@ -1,0 +1,27 @@
+.name {
+	font-size: 20px;
+	margin: 8px 0px;
+	font-weight: 400;
+
+}
+
+.item {
+	border: 3px solid #1e1a1a;
+	border-radius: 6px;
+	padding: 14px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.status {
+	margin: 0;
+	font-size: 14px;
+}
+
+.isOn {
+	color: green;
+}
+
+.isOff {
+	color: red;
+}
