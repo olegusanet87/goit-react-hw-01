@@ -6,8 +6,8 @@
 }
 
 .item {
-	border: 3px solid #1e1a1a;
-	border-radius: 6px;
+	border: 2px solid #1e1a1a;
+	border-radius: 4px;
 	padding: 14px;
 	display: flex;
 	flex-direction: column;
@@ -20,8 +20,11 @@
 
 .isOn {
 	color: green;
+	
 }
 
 .isOff {
 	color: red;
+	
+	;
 }

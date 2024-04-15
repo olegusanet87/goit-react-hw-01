@@ -5,22 +5,25 @@
 }
 
 .info {
-	font-weight: 500;
-	font-size: 20px;
+	font-weight: 400;
+	font-size: 22px;
 }
 
-.header {
-	font-weight: 500;
-	font-size: 24px;
-	color: #fff;
-	background-color: #484747;
-}
 
 .table {
 	margin: 32px auto 0px auto;
 	border-collapse: collapse;
 	width: 600px;
 }
+
+
+.header {
+	font-weight: 500;
+	font-size: 24px;
+	color: #fff;
+	background-color: #696666;
+}
+
 .line:nth-child(even) {
 	background-color: #a6a6a6;
 }
